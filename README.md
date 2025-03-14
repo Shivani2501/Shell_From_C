@@ -20,22 +20,6 @@ Use `gcc -o lsh src/main.c` to compile, and then `./lsh` to run. If you would
 like to use the standard-library based implementation of `lsh_read_line()`, then
 you can do: `gcc -DLSH_USE_STD_GETLINE -o lsh src/main.c`.
 
-Contributing
-------------
-
-Since this is the subject of a tutorial, I'm not looking to extend it with
-additional features at this time.  So I won't be accepting any pull requests
-that aren't related to bug fixes (and I'm sure there are still bugs in the
-code!).
-
-However, that doesn't mean that you shouldn't play with the code, make changes,
-and explore new features!  That's the whole point of this project!  It's just
-that other people are doing the same thing, and this project is merely a
-starting point for your own exploration.
-
-On that note, I would be just tickled if you dropped me a line (see my website
-for contact info) to show me the cool new features you've added!
-
 License
 -------
 
